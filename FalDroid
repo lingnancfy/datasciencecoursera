@@ -1,0 +1,3 @@
+FalDroid, an automatic system for classifying Android malware according to fregraph, in 7,400 lines of Java code and 900 lines of Python code. By applying
+FalDroid to 6,565 malwares in 30 different families, we find that FalDroid can correctly classify 94.5% malwares into
+their families around 4.4s per app on average.
